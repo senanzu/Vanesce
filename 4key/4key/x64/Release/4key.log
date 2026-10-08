@@ -1,0 +1,70 @@
+﻿  kkkk.cpp
+D:\qaq\4key\kkkk.cpp(380,53): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(380,53): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(380,53): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(380,53): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(380,53): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(391,16): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(391,16): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(391,16): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(391,16): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(391,16): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(392,16): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(392,16): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(392,16): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(392,16): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(392,16): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(656,20): warning C4244: “初始化”: 从“sf::Int32”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(815,85): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(877,28): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(877,28): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(877,28): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(877,28): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(877,28): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(919,28): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(919,28): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(919,28): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(919,28): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(919,28): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(936,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1026,28): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1026,28): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1026,28): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1026,28): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1026,28): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(1027,28): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1027,28): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1027,28): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1027,28): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1027,28): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(1224,24): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1224,24): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1224,24): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1224,24): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1224,24): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(1225,24): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1225,24): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1225,24): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1225,24): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1225,24): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(1289,28): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1289,28): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1289,28): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1289,28): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1289,28): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(1377,24): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1377,24): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1377,24): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1377,24): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1377,24): warning C4244:         ]
+D:\qaq\4key\kkkk.cpp(1378,24): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+D:\qaq\4key\kkkk.cpp(1378,24): warning C4244:         with
+D:\qaq\4key\kkkk.cpp(1378,24): warning C4244:         [
+D:\qaq\4key\kkkk.cpp(1378,24): warning C4244:             T=unsigned int
+D:\qaq\4key\kkkk.cpp(1378,24): warning C4244:         ]
+  正在生成代码
+  117 of 1286 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    54 functions were new in current compilation
+    143 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  4key.vcxproj -> D:\qaq\4key\x64\Release\4key.exe
